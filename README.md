@@ -1,5 +1,6 @@
 # PokerHandComparator
 A solution to compare two 5-card poker hands.
+(Please see for reference, List of Poker Hands: https://en.wikipedia.org/wiki/List_of_poker_hands)
 
 THE SOLUTION
 
